@@ -26,8 +26,5 @@ public class Assignment_3_6_1601CS41 {
         else System.out.println("Is Palindrome: No");
         
         System.out.println("Length of String is: "+ln);
-        
-        
-        
     }
 }

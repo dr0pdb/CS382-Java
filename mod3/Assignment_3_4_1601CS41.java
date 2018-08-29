@@ -33,7 +33,5 @@ public class Assignment_3_4_1601CS41 {
             
         }
         System.out.println("They are anagrams.");
-        
-        
     }
 }
