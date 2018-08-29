@@ -19,6 +19,4 @@ public class Assignment_2_5_1601CS41 {
              System.out.println();p-=2;
          }
      }
-
-
 }
