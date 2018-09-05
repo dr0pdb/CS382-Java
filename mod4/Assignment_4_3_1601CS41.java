@@ -33,19 +33,14 @@ public class Assignment_4_3_1601CS41 {
         Sum su = new Sum();
         su.calculate();
         su.calculate(1,2,3);
-        
-        
+
         Subtract sub = new Subtract();
         sub.calculate();
         sub.calculate(1,2);
         
         Division div = new Division();
         div.calculate();
-        div.calculate(1,2);
-        
-        
+        div.calculate(1,2); 
     }
-    
-    
 }
 
